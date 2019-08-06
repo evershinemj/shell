@@ -1,0 +1,1 @@
+alias guitar="git archive --format=tar"
